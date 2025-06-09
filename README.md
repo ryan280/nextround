@@ -1,7 +1,5 @@
 # NextRound
 
-See the deployed project at [roccopolimen.github.io/nextround](https://roccopolimen.github.io/nextround)
-
 ![](https://user-images.githubusercontent.com/42185632/169664790-dfe8a4c7-45f7-4956-b69a-42a527bf09ab.png)
 
 ## Description
