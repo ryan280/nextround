@@ -1,0 +1,43 @@
+/* Use this to add css styles to the Landing React Element */
+
+.HomePageContainer {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+}
+
+#signup {
+  margin-right: 20px;
+}
+
+.google-logo {
+  color: #d4422f;
+}
+
+.spotify-logo {
+  color: #1DB954;
+}
+
+.microsoft-logo {
+  color: #01a6f0;
+}
+
+.amazon-logo {
+  color: #ff9900;
+}
+
+#title {
+  font-size: 33pt;
+}
+
+#blurb {
+  font-size: 12pt;
+  line-height: 25px;
+  font-style: normal;
+}
+
+#subtitle {
+  font-size: 18pt;
+}
